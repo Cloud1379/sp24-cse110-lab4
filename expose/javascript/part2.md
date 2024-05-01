@@ -9,11 +9,13 @@
 9. error - 'i' is not defined outside the scope of the for loop
 10. 3 is outputted becuase length doesn't change and is defined within the right scope
 11. [ 50, 100, 150 ], even though discounted is a const, in javascript, it is okay to modify its contents
-12a. student.name  
-12b. student['Grade Year']  
-12c. student.greeting()  
-12d. student['Favorite Teacher'].name  
-12e. student.courseLoad[0]
+12. 
+  12a. student.name  
+  12b. student['Grade Year']  
+  12c. student.greeting()  
+  12d. student['Favorite Teacher'].name  
+  12e. student.courseLoad[0]
+13. 
 13a. 32 - concatenation   
 13b. 1 - the '-' sign signals arthimetic  
 13c. 3 - the null is treated as 0  
